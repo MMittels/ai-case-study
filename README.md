@@ -3,7 +3,7 @@
 
 ## Overview and Origin
 
-* Blue River Technology
+* Name of Company - Blue River Technology
 
 * When was the company incorporated? 2011
 
