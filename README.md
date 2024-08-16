@@ -1,17 +1,17 @@
 # ai-case-study
-# TITLE
+# BLUE RIVER TECHNOLOGY
 
 ## Overview and Origin
 
-* Name of company
+* Blue River Technology
 
-* When was the company incorporated?
+* When was the company incorporated? 2011
 
-* Who are the founders of the company?
+* Who are the founders of the company? Jorge Heraud and Lee Redden
 
-* How did the idea for the company (or project) come about?
+* How did the idea for the company (or project) come about?  Jorge Heraud and Lee Redden met while taking a course and converged on a wild ambition to make farming more sustainable through robotics and computer vision
 
-* How is the company funded? How much funding have they received?
+* How is the company funded? How much funding have they received?  On September 12, 2017 Blue River Technology was acquired by John Deere for $284 million.
 
 ## Business Activities
 
