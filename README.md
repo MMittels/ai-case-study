@@ -3,21 +3,28 @@
 
 ## Overview and Origin
 
-* Name of Company - Blue River Technology
+* Name of Company  
+    **Blue River Technology
 
-* When was the company incorporated? 2011
+* When was the company incorporated? 
+    **2011
 
-* Who are the founders of the company? Jorge Heraud and Lee Redden
+* Who are the founders of the company? 
+    **Jorge Heraud and Lee Redden
 
-* How did the idea for the company (or project) come about?  Jorge Heraud and Lee Redden met while taking a course and converged on a wild ambition to make farming more sustainable through robotics and computer vision
+* How did the idea for the company (or project) come about?  
+    **Jorge Heraud and Lee Redden met while taking a course and converged on a wild ambition to make farming more sustainable through robotics and computer vision
 
-* How is the company funded? How much funding have they received?  On September 12, 2017 Blue River Technology was acquired by John Deere for $284 million.
+* How is the company funded? How much funding have they received?  
+    **On September 12, 2017 Blue River Technology was acquired by John Deere for $284 million.
 
 ## Business Activities
 
-* What specific problem is the company or project trying to solve?
+* What specific problem is the company or project trying to solve?  
+    **The company seeks to deliver agriculture products with enabled technologies to enhance efficiency, sustainability, and profitability.
 
-* Who is the company's intended customer? Is there any information about the market size of this set of customers?
+* Who is the company's intended customer? Is there any information about the market size of this set of customers?  
+    The intended customer are all farmers globally. >"It's estimated that there are around 570 million farms in the world" (Hannah Ritchie and Max Roser (2022) - “Farm Size and Productivity” Published online at OurWorldInData.org. Retrieved from: 'https://ourworldindata.org/farm-size' [Online Resource])
 
 * What solution does this company offer that their competitors do not or cannot offer? (What is the unfair advantage they utilize?)
 
