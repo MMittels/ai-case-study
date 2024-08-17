@@ -38,6 +38,9 @@
 * What have been the major trends and innovations of this field over the last 5&ndash;10 years?
 
 * What are the other major companies in this field?
+    ***Carbon Robotics - utilizing agricultural technology for advanced weed control solutions with products such as Autonomous LaserWeeder***
+    ***Ekobot - develops and sells autonomous agricultural robots for the precision agruculture industry for weed control***
+    ***FarmWise - utilizes agricultural technology for automated weeding and cultivation solutions***
 
 ## Results
 
