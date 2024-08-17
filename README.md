@@ -30,6 +30,10 @@
 * What solution does this company offer that their competitors do not or cannot offer? (What is the unfair advantage they utilize?)
 
 * Which technologies are they currently using, and how are they implementing them? (This may take a little bit of sleuthing&mdash;you may want to search the company’s engineering blog or use sites like Stackshare to find this information.)
+  - Computer Vision - used to detect crops and weeds and produces a pixel-accurate map of where they are
+  - Machine Learning Models - used to identify weeds and crops based on images of crops and weeds collected over more than 5 years
+  - Robotics - used to drive intelligent sprayer through fields and spray weed while leaving crops intact.  Cameras are used on the sprayer to monitor field roughness, rocks, and bumps and adjust the spray accordingly
+  - Deep Learning Algorighms - paired with computer vision system
 
 ## Landscape
 
