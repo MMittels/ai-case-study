@@ -24,8 +24,8 @@
     **The company seeks to deliver agriculture products with enabled technologies to enhance efficiency, sustainability, and profitability.**
 
 * Who is the company's intended customer? Is there any information about the market size of this set of customers?  
-    **The intended customer are all farmers globally.**
-     >"It's estimated that there are around 570 million farms in the world" (Hannah Ritchie and Max Roser (2022) - “Farm Size and Productivity” Published online at OurWorldInData.org. Retrieved from: 'https://ourworldindata.org/farm-size' [Online Resource])
+    **The intended customer are all farmers globally.
+     >"It's estimated that there are around 570 million farms in the world" (Hannah Ritchie and Max Roser (2022) - “Farm Size and Productivity” Published online at OurWorldInData.org. Retrieved from: 'https://ourworldindata.org/farm-size' [Online Resource])**
 
 * What solution does this company offer that their competitors do not or cannot offer? (What is the unfair advantage they utilize?)
 
