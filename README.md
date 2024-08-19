@@ -38,8 +38,14 @@
 ## Landscape
 
 * What field is the company in?
+  **Agriculture**
 
 * What have been the major trends and innovations of this field over the last 5&ndash;10 years?
+
+Economic pressures and push toward more sustainable practice is driving innovation in the agriculture industry.
+  - Machine - enhanced machine designs help increase yields and sustainability
+  - Automation - technologies using a combination of robotics and sensors in the equipment 
+  - Digital - sensor readings on machines are gathered for documentation and traceability of field practices enabling farmers to evaluate productivity and yields
 
 * What are the other major companies in this field?
   - Carbon Robotics - utilizing agricultural technology for advanced weed control solutions with products such as Autonomous LaserWeeder
