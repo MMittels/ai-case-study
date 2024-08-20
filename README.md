@@ -52,9 +52,9 @@
 
 * What have been the major trends and innovations of this field over the last 5&ndash;10 years?
 
->"Technology advancement has allowed U.S. farmers to produce more crops and livestock while using less labor and land. From 1948 to 2019, the quantity of farm labor used in the production of U.S. agricultural commodities fell by three-fourths and land use declined by a fourth. During the same time, U.S. agricultural production rose to about 2.7 times its 1948 level. The mix of input use on farms over the past 70 years has shifted away from labor and land and toward captial inputs such as machinery, farm structures (chicken houses and greenhouses, for example), and intermediate inputs such as fertilizer, pesticides, and purchased services." (Sun Ling Wang, Roberto Mosheim, Eric Njuki, and Richard Nehring (October 27, 2022) - "U.S. Agricultural Output Has Grown Slower in Response to Stagnant Productivity Growth" Published online at USDA.gov. Retrieved from ['USDA.gov](https://www.ers.usda.gov/amber-waves/2022/october/u-s-agricultural-output-has-grown-slower-in-response-to-stagnant-productivity-growth/#:~:text=Over%20the%20years%2C%20technological%20changes,farm%20sector%20to%20other%20sectors.))
+  >"Technology advancement has allowed U.S. farmers to produce more crops and livestock while using less labor and land. From 1948 to 2019, the quantity of farm labor used in the production of U.S. agricultural commodities fell by three-fourths and land use declined by a fourth. During the same time, U.S. agricultural production rose to about 2.7 times its 1948 level. The mix of input use on farms over the past 70 years has shifted away from labor and land and toward captial inputs such as machinery, farm structures (chicken houses and greenhouses, for example), and intermediate inputs such as fertilizer, pesticides, and purchased services." (Sun Ling Wang, Roberto Mosheim, Eric Njuki, and Richard Nehring (October 27, 2022) - "U.S. Agricultural Output Has Grown Slower in Response to Stagnant Productivity Growth" Published online at USDA.gov. Retrieved from ['USDA.gov](https://www.ers.usda.gov/amber-waves/2022/october/u-s-agricultural-output-has-grown-slower-in-response-to-stagnant-productivity-growth/#:~:text=Over%20the%20years%2C%20technological%20changes,farm%20sector%20to%20other%20sectors.))
 
->"Over the years, technologocal changes have made inputs such as machinery and agricultural chemicals more affordable for farmers and have partially replaced labor and land inputs in the production process" (Sun Ling Wang, Roberto Mosheim, Eric Njuki, and Richard Nehring (October 27, 2022) - "U.S. Agricultural Output Has Grown Slower in Response to Stagnant Productivity Growth" Published online at USDA.gov. Retrieved from ['USDA.gov](https://www.ers.usda.gov/amber-waves/2022/october/u-s-agricultural-output-has-grown-slower-in-response-to-stagnant-productivity-growth/#:~:text=Over%20the%20years%2C%20technological%20changes,farm%20sector%20to%20other%20sectors.))
+  >"Over the years, technologocal changes have made inputs such as machinery and agricultural chemicals more affordable for farmers and have partially replaced labor and land inputs in the production process" (Sun Ling Wang, Roberto Mosheim, Eric Njuki, and Richard Nehring (October 27, 2022) - "U.S. Agricultural Output Has Grown Slower in Response to Stagnant Productivity Growth" Published online at USDA.gov. Retrieved from ['USDA.gov](https://www.ers.usda.gov/amber-waves/2022/october/u-s-agricultural-output-has-grown-slower-in-response-to-stagnant-productivity-growth/#:~:text=Over%20the%20years%2C%20technological%20changes,farm%20sector%20to%20other%20sectors.))
 
   - The last five years have shown advancements in data analytics, which has enabled incredible strides towards building a more productive and resilient food system.
     - *Machine - enhanced machine designs help increase yields and sustainability*
@@ -72,10 +72,14 @@
   Blue River Technology has developed See & Spray machines, which utilize cameras and machine learning to enable plant-by-plant spray treatments. The result of the precision treatment is up to a 70% reduction in chemicals used, which improves sustainability. 
 
 * What are some of the core metrics that companies in this field use to measure success? How is your company performing based on these metrics?
-  - Herbicide Use
-  - Cost Efficiency
-  - Crop Yield
-  - Profitability
+  - Measures of Success
+    - *Herbicide Use*
+    - *Cost Efficiency*
+    - *Crop Yield*
+    - *Profitability*
+
+  - Current Performance
+    - *Blue River Technologies is still in field testing for it's See and Spray technology so there were only estimates or theoretical assumptions for the benefits of the technology
 
 
 * How is your company performing relative to competitors in the same field?
