@@ -48,7 +48,7 @@
 ## Landscape
 
 * What field is the company in?
-  -**Agriculture**
+  - **Agriculture**
 
 * What have been the major trends and innovations of this field over the last 5&ndash;10 years?
 
@@ -79,7 +79,7 @@
     - *Profitability*
 
   - Current Performance
-    - *Blue River Technologies is still in field testing for it's See and Spray technology so there were only estimates or theoretical assumptions for the benefits of the technology
+    - *Blue River Technologies is still in field testing for it's See and Spray technology so there were only estimates or theoretical assumptions for the benefits of the technology*
 
 
 * How is your company performing relative to competitors in the same field?
@@ -87,6 +87,9 @@
 ## Recommendations
 
 * If you were to advise the company, what products or services would you suggest they offer? (This could be something that a competitor offers, or use your imagination!)
+  - Expanding capabilities of See and Spray to monitor crops and soil health - analyze 
+  - Yield mapping and predictive analytics (Intellias)
+  - Addressing the challenges of AI in agriculture (Intellias)
 
 * Why do you think that offering this product or service would benefit the company?
 
