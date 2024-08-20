@@ -4,6 +4,7 @@
   - [Landscape](#landscape)
   - [Results](#results)
   - [Recommendations](#recommendations)
+  - [References](#references)
 
 ## Overview and Origin
 
@@ -84,3 +85,7 @@
 * What technologies would this additional product or service utilize?
 
 * Why are these technologies appropriate for your solution?
+
+## References
+  - Hannah Ritchie and Max Roser (2022) - “Farm Size and Productivity” Published online at OurWorldInData.org. Retrieved from: 'https://ourworldindata.org/farm-size' [Online Resource]
+  - Alina Piddubna (August 12, 2024) - AI in Agriculture - The Future of Farming Published online at Intellias.com. Retrieved from: ['https:/intellias.com/artificial-intelligence-in-agriculture'](https://intellias.com/artificial-intelligence-in-agriculture/) [Online Resource]
