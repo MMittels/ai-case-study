@@ -1,4 +1,3 @@
-# ai-case-study
 # BLUE RIVER TECHNOLOGY
 
 ## Overview and Origin
@@ -7,13 +6,14 @@
     **Blue River Technology**
 
 * When was the company incorporated? 
-    **2011**
+    - 2011
 
 * Who are the founders of the company? 
-    **Jorge Heraud and Lee Redden**
+    - Jorge Heraud - Stanford University graduate who headed Precision Agriculture Group at Trimble Navigation for 15 years before founding Blue River Technology
+    - Lee Redden - Also a Stanford University graduate with research experience at robotics labs at Johns Hopkins Applied Physics Lab, NASA Johnson Space Center, and Stanford University
 
 * How did the idea for the company (or project) come about?  
-    **Jorge Heraud and Lee Redden met while taking a course and converged on a wild ambition to make farming more sustainable through robotics and computer vision**
+    - Jorge Heraud and Lee Redden met while taking a Steve Blank's Lean Launchpad course at Stanford University, a course focused on using a framework to test a business model of a startup. From that course, Jorge and Lee came together with the idea to make farming more sustainable through robotics and computer vision
 
 * How is the company funded? How much funding have they received?  
     **On September 12, 2017 Blue River Technology was acquired by John Deere for $284 million.**
