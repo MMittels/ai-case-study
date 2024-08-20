@@ -16,24 +16,28 @@
     - Jorge Heraud and Lee Redden met while taking a Steve Blank's Lean Launchpad course at Stanford University, a course focused on using a framework to test a business model of a startup. From that course, Jorge and Lee came together with the idea to make farming more sustainable through robotics and computer vision
 
 * How is the company funded? How much funding have they received?  
-    **On September 12, 2017 Blue River Technology was acquired by John Deere for $284 million.**
+    - On September 12, 2017 Blue River Technology was acquired by John Deere for $284 milliom
 
 ## Business Activities
 
 * What specific problem is the company or project trying to solve?  
-    **The company seeks to deliver agriculture products with enabled technologies to enhance efficiency, sustainability, and profitability.**
+    - The company seeks to deliver agriculture products with enabled technologies to enhance efficiency, sustainability, and profitability for farmers
 
 * Who is the company's intended customer? Is there any information about the market size of this set of customers?  
-    **The intended customer are all farmers globally.**
-     >**"It's estimated that there are around 570 million farms in the world" (Hannah Ritchie and Max Roser (2022) - “Farm Size and Productivity” Published online at OurWorldInData.org. Retrieved from: 'https://ourworldindata.org/farm-size' [Online Resource])**
+  -The intended customer are all farmers globally.
+     >"It's estimated that there are around 570 million farms in the world" (Hannah Ritchie and Max Roser (2022) - “Farm Size and Productivity” Published online at OurWorldInData.org. Retrieved from: 'https://ourworldindata.org/farm-size' [Online Resource])
 
 * What solution does this company offer that their competitors do not or cannot offer? (What is the unfair advantage they utilize?)
+  - Blue River Technology is part of the John Deere, which gives them an advantage on the machinery side as John Deere has almost 200 years of experience in agriculture
+  - The main product from Blue River Technology is the See and Spray Technology, which is used for weed control for major U.S. crops and allows for plant-by-plant precision.
+  -  With John Deere, Blue River Technology offers a Dual Tank System working in conjunction with See and Spray technology allowing the farmer to use two different herbicides in one pass based on plant needs
 
 * Which technologies are they currently using, and how are they implementing them? (This may take a little bit of sleuthing&mdash;you may want to search the company’s engineering blog or use sites like Stackshare to find this information.)
-  - Computer Vision - used to detect crops and weeds and produces a pixel-accurate map of where they are
-  - Machine Learning Models - used to identify weeds and crops based on images of crops and weeds collected over more than 5 years
-  - Robotics - used to drive intelligent sprayer through fields and spray weed while leaving crops intact.  Cameras are used on the sprayer to monitor field roughness, rocks, and bumps and adjust the spray accordingly
-  - Deep Learning Algorighms - paired with computer vision system
+  - Within the See and Spray technology the following technologies are being used:
+    - Computer Vision - used to detect crops and weeds and produces a pixel-accurate map of where they are
+    - Machine Learning Models - used to identify weeds and crops based on images of crops and weeds collected over more than 5 years
+    - Robotics - used to drive intelligent sprayer through fields and spray weed while leaving crops intact.  Cameras are used on the sprayer to monitor field roughness, rocks, and bumps and adjust the spray accordingly
+    - Deep Learning Algorighms - paired with computer vision system
 
 ## Landscape
 
