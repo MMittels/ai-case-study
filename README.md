@@ -1,9 +1,9 @@
 # BLUE RIVER TECHNOLOGY
-[Overview and Origin](#overview-and-origin)
-[Business Activities](#business-activities)
-[Landscape](#landscape)
-[Results](#results)
-[Recommendations](#recommendations)
+  - [Overview and Origin](#overview-and-origin)
+  - [Business Activities](#business-activities)
+  - [Landscape](#landscape)
+  - [Results](#results)
+  - [Recommendations](#recommendations)
 
 ## Overview and Origin
 
