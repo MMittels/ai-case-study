@@ -52,6 +52,8 @@
 
 * What have been the major trends and innovations of this field over the last 5&ndash;10 years?
 
+>"Technology advancement has allowed U.S. farmers to produce more crops and livestock while using less labor and land. From 1948 to 2019, the quantity of farm labor used in the production of U.S. agricultural commodities fell by three-fourths and land use declined by a fourth. During the same time, U.S. agricultural production rose to about 2.7 times its 1948 level. The mix of input use on farms over the past 70 years has shifted away from labor and land and toward captial inputs such as machinery, farm structures (chicken houses and greenhouses, for example), and intermediate inputs such as fertilizer, pesticides, and purchased services." (Sun Ling Wang, Roberto Mosheim, Eric Njuki, and Richard Nehring (October 27, 2022) - "U.S. Agricultural Output Has Grown Slower in Response to Stagnant Productivity Growth" Published online at USDA.gov. Retrieved from ['USDA.gov](https://www.ers.usda.gov/amber-waves/2022/october/u-s-agricultural-output-has-grown-slower-in-response-to-stagnant-productivity-growth/#:~:text=Over%20the%20years%2C%20technological%20changes,farm%20sector%20to%20other%20sectors.))
+  
   Economic pressures and push toward more sustainable practice is driving innovation in the agriculture industry.
     - Machine - enhanced machine designs help increase yields and sustainability
     - Automation - technologies using a combination of robotics and sensors in the equipment 
