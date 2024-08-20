@@ -48,16 +48,18 @@
 ## Landscape
 
 * What field is the company in?
-  **Agriculture**
+  -**Agriculture**
 
 * What have been the major trends and innovations of this field over the last 5&ndash;10 years?
 
 >"Technology advancement has allowed U.S. farmers to produce more crops and livestock while using less labor and land. From 1948 to 2019, the quantity of farm labor used in the production of U.S. agricultural commodities fell by three-fourths and land use declined by a fourth. During the same time, U.S. agricultural production rose to about 2.7 times its 1948 level. The mix of input use on farms over the past 70 years has shifted away from labor and land and toward captial inputs such as machinery, farm structures (chicken houses and greenhouses, for example), and intermediate inputs such as fertilizer, pesticides, and purchased services." (Sun Ling Wang, Roberto Mosheim, Eric Njuki, and Richard Nehring (October 27, 2022) - "U.S. Agricultural Output Has Grown Slower in Response to Stagnant Productivity Growth" Published online at USDA.gov. Retrieved from ['USDA.gov](https://www.ers.usda.gov/amber-waves/2022/october/u-s-agricultural-output-has-grown-slower-in-response-to-stagnant-productivity-growth/#:~:text=Over%20the%20years%2C%20technological%20changes,farm%20sector%20to%20other%20sectors.))
-  
-  Economic pressures and push toward more sustainable practice is driving innovation in the agriculture industry.
-    - Machine - enhanced machine designs help increase yields and sustainability
-    - Automation - technologies using a combination of robotics and sensors in the equipment 
-    - Digital - sensor readings on machines are gathered for documentation and traceability of field practices enabling farmers to evaluate productivity and yields
+
+>"Over the years, technologocal changes have made inputs such as machinery and agricultural chemicals more affordable for farmers and have partially replaced labor and land inputs in the production process" (Sun Ling Wang, Roberto Mosheim, Eric Njuki, and Richard Nehring (October 27, 2022) - "U.S. Agricultural Output Has Grown Slower in Response to Stagnant Productivity Growth" Published online at USDA.gov. Retrieved from ['USDA.gov](https://www.ers.usda.gov/amber-waves/2022/october/u-s-agricultural-output-has-grown-slower-in-response-to-stagnant-productivity-growth/#:~:text=Over%20the%20years%2C%20technological%20changes,farm%20sector%20to%20other%20sectors.))
+
+  - The last five years have shown advancements in data analytics, which has enabled incredible strides towards building a more productive and resilient food system.
+    - *Machine - enhanced machine designs help increase yields and sustainability*
+    - *Automation - technologies using a combination of robotics and sensors in the equipment* 
+    - *Digital - sensor readings on machines are gathered for documentation and traceability of field practices enabling farmers to evaluate productivity and yields*
 
 * What are the other major companies in this field?
   - Carbon Robotics - utilizing agricultural technology for advanced weed control solutions with products such as Autonomous LaserWeeder
@@ -91,3 +93,4 @@
 ## References
   - Hannah Ritchie and Max Roser (2022) - “Farm Size and Productivity” Published online at OurWorldInData.org. Retrieved from: 'https://ourworldindata.org/farm-size' [Online Resource]
   - Alina Piddubna (August 12, 2024) - AI in Agriculture - The Future of Farming Published online at Intellias.com. Retrieved from: ['https:/intellias.com/artificial-intelligence-in-agriculture'](https://intellias.com/artificial-intelligence-in-agriculture/) [Online Resource]
+  - Sun Ling Wang, Roberto Mosheim, Eric Njuki, and Richard Nehring (October 27, 2022) - "U.S. Agricultural Output Has Grown Slower in Response to Stagnant Productivity Growth" Published online at USDA.gov. Retrieved from ['USDA.gov](https://www.ers.usda.gov/amber-waves/2022/october/u-s-agricultural-output-has-grown-slower-in-response-to-stagnant-productivity-growth/#:~:text=Over%20the%20years%2C%20technological%20changes,farm%20sector%20to%20other%20sectors.)
