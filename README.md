@@ -8,14 +8,14 @@
 ## Overview and Origin
 
 * Name of Company  
-    **Blue River Technology**
+    - Blue River Technology
 
 * When was the company incorporated? 
     - 2011
 
 * Who are the founders of the company? 
-    - Jorge Heraud - Stanford University graduate who headed Precision Agriculture Group at Trimble Navigation for 15 years before founding Blue River Technology
-    - Lee Redden - Also a Stanford University graduate with research experience at robotics labs at Johns Hopkins Applied Physics Lab, NASA Johnson Space Center, and Stanford University
+    - **Jorge Heraud** - Stanford University graduate who headed Precision Agriculture Group at Trimble Navigation for 15 years before founding Blue River Technology
+    - **Lee Redden** - Also a Stanford University graduate with research experience at robotics labs at Johns Hopkins Applied Physics Lab, NASA Johnson Space Center, and Stanford University
 
 * How did the idea for the company (or project) come about?  
     - Jorge Heraud and Lee Redden met while taking a Steve Blank's Lean Launchpad course at Stanford University, a course focused on using a framework to test a business model of a startup. From that course, Jorge and Lee came together with the idea to make farming more sustainable through robotics and computer vision
@@ -39,10 +39,10 @@
 
 * Which technologies are they currently using, and how are they implementing them? (This may take a little bit of sleuthing&mdash;you may want to search the company’s engineering blog or use sites like Stackshare to find this information.)
   - Within the See and Spray technology the following technologies are being used:
-    - Computer Vision - used to detect crops and weeds and produces a pixel-accurate map of where they are
-    - Machine Learning Models - used to identify weeds and crops based on images of crops and weeds collected over more than 5 years
-    - Robotics - used to drive intelligent sprayer through fields and spray weed while leaving crops intact.  Cameras are used on the sprayer to monitor field roughness, rocks, and bumps and adjust the spray accordingly
-    - Deep Learning Algorighms - paired with computer vision system
+    - *Computer Vision - used to detect crops and weeds and produces a pixel-accurate map of the location of weeds*
+    - *Machine Learning Models - used to identify weeds and crops based on images of crops and weeds collected over more than 5 years*
+    - *Robotics - used to drive intelligent sprayer through fields and spray weed while leaving crops intact.  Cameras are used on the sprayer to monitor field roughness, rocks, and bumps and adjust the spray accordingly*
+    - *Deep Learning Algorighms - paired with computer vision system*
 
 ## Landscape
 
