@@ -88,23 +88,29 @@
       - *Farmwise - $32M*
       - *Ekobot - $21M*
   - Comparison of companies with top 2 revenue
-      - *Although Blue River Technology and **Carbon Robotics** offer similar products in precision weed control, the Blue River Technology product is focused on precision spreading of herbicide and Carbon Robotics utilizes laser technology.  Both have their challenges with herbicide drift in the Blue River Technology product and laser beam splitting with the Carbon Robotics product.  Additionally,
-        >"laser treatment to kill weeds requires it to applied at an early stage to be effective." Vanay Vijayakumar, Yiannis Ampatzidis, John K. Schueller, Tom Burks (December 2023) - "Smart spraying technologies for precision weed management: A review" Published online at sciencedirect.com. Retrieved from [ScienceDirect.com] (https://www.sciencedirect.com/science/article/pii/S2772375523001661) [Online Resource]*
+      - *Although Blue River Technology and **Carbon Robotics** offer similar products in precision weed control, the Blue River Technology product is focused on precision spreading of herbicide and Carbon Robotics utilizes laser technology.  Both have their challenges with herbicide drift in the Blue River Technology product and laser beam splitting with the Carbon Robotics product.  Additionally,*
+        >"laser treatment to kill weeds requires it to applied at an early stage to be effective." Vanay Vijayakumar, Yiannis Ampatzidis, John K. Schueller, Tom Burks (December 2023) - "Smart spraying technologies for precision weed management: A review" Published online at sciencedirect.com. Retrieved from [ScienceDirect.com](https://www.sciencedirect.com/science/article/pii/S2772375523001661) [Online Resource]
 
 ## Recommendations
 
 * If you were to advise the company, what products or services would you suggest they offer? (This could be something that a competitor offers, or use your imagination!)
-  - Expanding capabilities of See and Spray to monitor crops and soil health - analyze 
-  - Yield mapping and predictive analytics (Intellias)
-  - Addressing the challenges of AI in agriculture (Intellias)
-
+  - Technology used with the See & Spray weed sprayer could be explored to expand capabilities to monitor crops and soil health
+  - Additionally Blue River Technology should address the challenges of adopting AI practices in agriculture
+    
 * Why do you think that offering this product or service would benefit the company?
+  - Expanding the capabilities of See & Spray weed sprayer with additional features could help make the product more economically viable to smaller farmers and reduce the need for separate machinery
+  - AI technologies have not been broadly adopted by the agricultural community
+    >"Many people don't fully understand how AI in agricultural biotechnology works especially those in non-tech-related secotors, leading to slow AI adoption across the agricultural sector... Also, AgTech providers often fail to clearly explain the benefits of new technologies and how to implement them." Alina Piddubna (August 12, 2024) - AI in Agriculture - The Future of Farming Published online at Intellias.com. Retrieved from: ['https:/intellias.com/artificial-intelligence-in-agriculture'](https://intellias.com/artificial-intelligence-in-agriculture/) [Online Resource]
 
 * What technologies would this additional product or service utilize?
+  - Adding crop monitoring and soil health would utilize the existing **Computer Vision** utilized in the existing product 
+  - Enhancing communication focusing on benefits along with providing training and ongoing support could assist with increasing adoption of AI technologies within the sector
 
 * Why are these technologies appropriate for your solution?
+  - Computer Vision is appropriate for my solution because it is already being used in the existing See & Spray product and information gathered could be utilized to monitor crops and soil
 
 ## References
   - Hannah Ritchie and Max Roser (2022) - “Farm Size and Productivity” Published online at OurWorldInData.org. Retrieved from: 'https://ourworldindata.org/farm-size' [Online Resource]
   - Alina Piddubna (August 12, 2024) - AI in Agriculture - The Future of Farming Published online at Intellias.com. Retrieved from: ['https:/intellias.com/artificial-intelligence-in-agriculture'](https://intellias.com/artificial-intelligence-in-agriculture/) [Online Resource]
-  - Sun Ling Wang, Roberto Mosheim, Eric Njuki, and Richard Nehring (October 27, 2022) - "U.S. Agricultural Output Has Grown Slower in Response to Stagnant Productivity Growth" Published online at USDA.gov. Retrieved from ['USDA.gov](https://www.ers.usda.gov/amber-waves/2022/october/u-s-agricultural-output-has-grown-slower-in-response-to-stagnant-productivity-growth/#:~:text=Over%20the%20years%2C%20technological%20changes,farm%20sector%20to%20other%20sectors.)
+  - Sun Ling Wang, Roberto Mosheim, Eric Njuki, and Richard Nehring (October 27, 2022) - "U.S. Agricultural Output Has Grown Slower in Response to Stagnant Productivity Growth" Published online at USDA.gov. Retrieved from [USDA.gov](https://www.ers.usda.gov/amber-waves/2022/october/u-s-agricultural-output-has-grown-slower-in-response-to-stagnant-productivity-growth/#:~:text=Over%20the%20years%2C%20technological%20changes,farm%20sector%20to%20other%20sectors.)
+  - Vanay Vijayakumar, Yiannis Ampatzidis, John K. Schueller, Tom Burks (December 2023) - "Smart spraying technologies for precision weed management: A review" Published online at sciencedirect.com. Retrieved from [ScienceDirect.com](https://www.sciencedirect.com/science/article/pii/S2772375523001661) [Online Resource]
