@@ -81,8 +81,10 @@
   - Current Performance
     - *Blue River Technologies is still in field testing for it's See and Spray technology so there were only estimates or theoretical assumptions for the benefits of the technology*
 
-
 * How is your company performing relative to competitors in the same field?
+  - B
+  - Although Blue River Technology and **Carbon Robotics** offer similar products in precision weed control, the Blue River Technology product is focused on precision spreading of herbicide and Carbon Robotics utilizes laser technology.  Both have their challenges with herbicide drift in the Blue River Technology product and laser beam splitting with the Carbon Robotics product.  Additionally, 
+    >"laser treatment to kill weeds requires it to applied at an early stage to be effective." Vanay Vijayakumar, Yiannis Ampatzidis, John K. Schueller, Tom Burks (December 2023) - "Smart spraying technologies for precision weed management: A review" Published online at sciencedirect.com. Retrieved from [ScienceDirect.com] (https://www.sciencedirect.com/science/article/pii/S2772375523001661) [Online Resource]
 
 ## Recommendations
 
