@@ -110,6 +110,7 @@
   - Computer Vision is appropriate for my solution because it is already being used in the existing See & Spray product and information gathered could be utilized to monitor crops and soil
 
 ## References
+  - Blue River Technology Website - Retrieved from [BlueRiverTechnology.com](https://bluerivertechnology.com/)
   - Hannah Ritchie and Max Roser (2022) - “Farm Size and Productivity” Published online at OurWorldInData.org. Retrieved from: 'https://ourworldindata.org/farm-size' [Online Resource]
   - Alina Piddubna (August 12, 2024) - AI in Agriculture - The Future of Farming Published online at Intellias.com. Retrieved from: [intellias.com](https://intellias.com/artificial-intelligence-in-agriculture/) [Online Resource]
   - Sun Ling Wang, Roberto Mosheim, Eric Njuki, and Richard Nehring (October 27, 2022) - "U.S. Agricultural Output Has Grown Slower in Response to Stagnant Productivity Growth" Published online at USDA.gov. Retrieved from [USDA.gov](https://www.ers.usda.gov/amber-waves/2022/october/u-s-agricultural-output-has-grown-slower-in-response-to-stagnant-productivity-growth/#:~:text=Over%20the%20years%2C%20technological%20changes,farm%20sector%20to%20other%20sectors.)
