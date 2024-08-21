@@ -100,7 +100,7 @@
 * Why do you think that offering this product or service would benefit the company?
   - Expanding the capabilities of See & Spray weed sprayer with additional features could help make the product more economically viable to smaller farmers and reduce the need for separate machinery
   - AI technologies have not been broadly adopted by the agricultural community
-    >"Many people don't fully understand how AI in agricultural biotechnology works especially those in non-tech-related secotors, leading to slow AI adoption across the agricultural sector... Also, AgTech providers often fail to clearly explain the benefits of new technologies and how to implement them." Alina Piddubna (August 12, 2024) - AI in Agriculture - The Future of Farming Published online at Intellias.com. Retrieved from: ['https:/intellias.com/artificial-intelligence-in-agriculture'](https://intellias.com/artificial-intelligence-in-agriculture/) [Online Resource]
+    >"Many people don't fully understand how AI in agricultural biotechnology works especially those in non-tech-related secotors, leading to slow AI adoption across the agricultural sector... Also, AgTech providers often fail to clearly explain the benefits of new technologies and how to implement them." Alina Piddubna (August 12, 2024) - AI in Agriculture - The Future of Farming Published online at Intellias.com. Retrieved from: [intellias.com](https://intellias.com/artificial-intelligence-in-agriculture/) [Online Resource]
 
 * What technologies would this additional product or service utilize?
   - Adding crop monitoring and soil health would utilize the existing **Computer Vision** utilized in the existing product 
@@ -111,6 +111,6 @@
 
 ## References
   - Hannah Ritchie and Max Roser (2022) - “Farm Size and Productivity” Published online at OurWorldInData.org. Retrieved from: 'https://ourworldindata.org/farm-size' [Online Resource]
-  - Alina Piddubna (August 12, 2024) - AI in Agriculture - The Future of Farming Published online at Intellias.com. Retrieved from: ['https:/intellias.com/artificial-intelligence-in-agriculture'](https://intellias.com/artificial-intelligence-in-agriculture/) [Online Resource]
+  - Alina Piddubna (August 12, 2024) - AI in Agriculture - The Future of Farming Published online at Intellias.com. Retrieved from: [intellias.com](https://intellias.com/artificial-intelligence-in-agriculture/) [Online Resource]
   - Sun Ling Wang, Roberto Mosheim, Eric Njuki, and Richard Nehring (October 27, 2022) - "U.S. Agricultural Output Has Grown Slower in Response to Stagnant Productivity Growth" Published online at USDA.gov. Retrieved from [USDA.gov](https://www.ers.usda.gov/amber-waves/2022/october/u-s-agricultural-output-has-grown-slower-in-response-to-stagnant-productivity-growth/#:~:text=Over%20the%20years%2C%20technological%20changes,farm%20sector%20to%20other%20sectors.)
   - Vanay Vijayakumar, Yiannis Ampatzidis, John K. Schueller, Tom Burks (December 2023) - "Smart spraying technologies for precision weed management: A review" Published online at sciencedirect.com. Retrieved from [ScienceDirect.com](https://www.sciencedirect.com/science/article/pii/S2772375523001661) [Online Resource]
